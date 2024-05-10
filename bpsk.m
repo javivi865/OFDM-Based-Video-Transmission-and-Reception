@@ -1,6 +1,5 @@
 clc
 clear all
-L=10
 snr_dB = -10:1:10;
 N = 64;
 L = 10;
