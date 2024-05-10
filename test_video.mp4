@@ -1,4 +1,4 @@
-Here is the video that you can download to run the files. Select view raw to download. Also, feel free to use your own by changing the name for the VideoReader. 
+Here is the video that you can download to run the files. Select download raw to get the video. Also, feel free to use your own by changing the name of the VideoReader. 
 
 v = VideoReader ("Your_File_Name.mp4");
 
